@@ -1,0 +1,7 @@
+PG_HOST=localhost
+PG_PORT=5432
+PG_DATABASE=rive_db
+PG_USER=rive_user
+PG_PASSWORD=rive_password
+RESEND=re_jeHWX7Ya
+APP_URL=http://localhost:5173
